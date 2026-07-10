@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Your uploaded photo link goes here -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="Zero Gravity" width="200" style="border-radius: 50%;" />
+  <img src="Screenshot 2026-07-10 153055.png" alt="Zero Gravity" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
